@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Pacifico&display=swap');
+body,html,h1{font-family: 'Orbitron', sans-serif;font-style: italic;}
+.search {
+    background: rgba(1,74,148,0.7);
+}
+.brands, .models {
+    background: #940182;
+}
+
+.label {
+    background: #940182;
+}
+.car .neuf .label-etat {
+    background: #ffc107;
+}
+.car .block .title {
+    background: rgba(1,74,148,0.7);
+}
+
+.car .subtitle {
+    background: #014a94;
+    color: #fff;
+}
+
+.car .amount {
+    background: #940182;
+}
+.car .loa {
+    background: #ffc107;
+}
+.promotion {
+    background: #74ca43;
+}
+
+a.button-show-all, .button-show-all {
+    background: #97bf0d;
+    border: 1px solid #97bf0d;
+}
+
+#menu-burger .burger, #menu-burger .burger:after, #menu-burger .burger:before {
+    background-color: #97bf0d;
+}
+
+.car .amount:after {
+    border-color: transparent transparent transparent #17a2b8;
+}
